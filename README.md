@@ -1,6 +1,6 @@
 ## Kia ora tātou! 👋
 
-I'm an aspiring full stack developer with a background in physics and experience as a patent attorney. 
+I'm an aspiring full stack developer with a background in physics and experience as a patent attorney. I just graduated from Dev Academy Aotearoa and am looking for my next opportunity to further grow my skills.
 
 - 🌱 I’m reinforcing my knowledge of TypeScript, React, and SQL
 - 🔭 I’m currently polishing up the projects in my portfolio (check them out below!)
