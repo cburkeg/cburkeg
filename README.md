@@ -4,8 +4,8 @@ I'm an aspiring full stack developer with a background in physics and experience
 
 I just graduated from Dev Academy Aotearoa and am looking for my next opportunity to further grow my skills.
 
-- 🌱 I’m reinforcing my knowledge of TypeScript, React, and SQL
-- 🔭 I’m currently polishing up the projects in my portfolio (check them out below!)
+- 🌱 I’m reinforcing my knowledge of TypeScript & React, and learning postgres.
+- 🔭 I’m currently polishing up the projects in my portfolio (check them out below!) and am deploying them to Vercel
 - 📫 If you like what you see and you want to know more, don't hesitate to [get in touch with me](https://www.linkedin.com/in/conor-burke-govey/)
 
 <!--
