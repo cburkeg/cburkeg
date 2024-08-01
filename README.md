@@ -1,4 +1,4 @@
-## Kia ora tātou! 👋 Please check out [my portfolio](conor.pushed.nz) to see my deployed projects! 
+## Kia ora tātou! 👋 Please check out [my portfolio](http://conor.pushed.nz) to see my deployed projects! 
 
 I'm an aspiring full stack developer with a background in physics and experience as a patent attorney. 
 
