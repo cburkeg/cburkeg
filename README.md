@@ -1,11 +1,11 @@
-## Kia ora tātou! 👋
+## Kia ora tātou! 👋 Please check out [conor.pushed.nz](my portfolio) to see my deployed projects! 
 
 I'm an aspiring full stack developer with a background in physics and experience as a patent attorney. 
 
 I just graduated from Dev Academy Aotearoa and am looking for my next opportunity to further grow my skills.
 
 - 🌱 I’m reinforcing my knowledge of TypeScript & React, and learning postgres.
-- 🔭 I’m currently polishing up the projects in my portfolio (check them out below!) and am deploying them to Vercel
+- 🔭 I’m currently working on my N-body simulator; you can see the first version in my portfolio!
 - 📫 If you like what you see and you want to know more, don't hesitate to [get in touch with me](https://www.linkedin.com/in/conor-burke-govey/)
 
 <!--
